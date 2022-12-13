@@ -1,0 +1,9 @@
+WATSAPP CODE DEVELOPMENT:
+
+1. Profile Page code
+
+2. Last Seen code
+
+3. Chat Screen code
+
+4. Attachements(Video,audio,Image) code
