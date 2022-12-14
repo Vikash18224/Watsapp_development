@@ -6,7 +6,7 @@ WATSAPP CODE DEVELOPMENT:
 
 3. Chat Screen code
 
-4. Attachements(Video,audio,Image) code
+4. Attachements(Video,audio,Image, Documents) code
 
 5. Hiding the last seen code.
 
