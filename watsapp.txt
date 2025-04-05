@@ -15,3 +15,7 @@ WATSAPP CODE DEVELOPMENT:
 7. Adding video call feature.
 
 8. Adding status feature
+
+9.Adding stickers
+
+10.Adding Emojis
