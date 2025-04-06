@@ -19,3 +19,5 @@ WATSAPP CODE DEVELOPMENT:
 9.Adding stickers
 
 10.Adding Emojis
+
+11.Adding notes
